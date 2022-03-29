@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+=======
+        <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/drawable/bg_shape.xml" value="0.102" />
+        <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+>>>>>>> 82e404f (Initial commit)
         <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
         <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
         <entry key="..\:/Coolyeah/SEMS.4/FINTEC/FinApp/app/src/main/res/layout/fragment_settings.xml" value="0.17074275362318841" />
