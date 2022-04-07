@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Prodi">
+        <item>Sistem Informasi </item>
+        <item>Teknik Informatika</item>
+        <item>Manajemen Informatika</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknik Komputer</item>
+    </string-array>
+</resources>

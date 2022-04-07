@@ -1,20 +1,10 @@
 package com.getyour.finapp
 
-<<<<<<< HEAD
-=======
 import android.content.Intent
->>>>>>> 82e404f (Initial commit)
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import androidx.fragment.app.Fragment
-<<<<<<< HEAD
-=======
-import com.getyour.finapp.home.HomeFragment
-import com.getyour.finapp.profile.ProfileFragment
-import com.getyour.finapp.settings.SettingsActivity
-import com.getyour.finapp.settings.SettingsFragment
->>>>>>> 82e404f (Initial commit)
 
 class MainActivity : AppCompatActivity() {
     private lateinit var btnHome: Button
@@ -40,19 +30,11 @@ class MainActivity : AppCompatActivity() {
 //            intent.putExtra("username","Indra")
 //            startActivity(intent)
 //        }
-<<<<<<< HEAD
-//        btnSettings.setOnClickListener {
-//            val intent = Intent(this,SettingsActivity::class.java)
-//            intent.putExtra("username","Indra")
-//            startActivity(intent)
-//        }
-=======
         btnSettings.setOnClickListener {
-            val intent = Intent(this, SettingsActivity::class.java)
+            val intent = Intent(this,SettingsActivity::class.java)
             intent.putExtra("username","Indra")
             startActivity(intent)
         }
->>>>>>> 82e404f (Initial commit)
 
 
         btnHome.setOnClickListener {
@@ -61,15 +43,9 @@ class MainActivity : AppCompatActivity() {
         btnProfile.setOnClickListener {
             loadFragment(ProfileFragment())
         }
-<<<<<<< HEAD
-        btnSettings.setOnClickListener {
-            loadFragment(SettingsFragment())
-        }
-=======
 //        btnSettings.setOnClickListener {
 //            loadFragment(SettingsFragment())
 //        }
->>>>>>> 82e404f (Initial commit)
 
 
 
